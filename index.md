@@ -1,2 +1,2 @@
 # Resume of Dave Thomas
-<a href="davecthomas.github.io/resume/DavidThomasResume.pdf" target="_blank">PDF.</a>
+<a href="DavidThomasResume.pdf" target="_blank">Resume PDF</a>
