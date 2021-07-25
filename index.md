@@ -11,3 +11,5 @@
 
 ### Writing
 <a href="https://davecthomas.medium.com" target="_blank">davecthomas.medium.com</a> and <a href="https://www.linkedin.com/in/dcthomas/detail/recent-activity/posts/" target="_blank">LinkedIn articles</a>
+
+
