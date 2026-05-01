@@ -1,6 +1,6 @@
 ## PDF
 &nbsp;
-<a href="https://github.com/davecthomas/resume/blob/master/David%20Thomas%20Resume.pdf" target="_blank">Dave's resume</a>
+<a href="https://github.com/davecthomas/resume/blob/master/Resume%20of%20David%20Thomas.pdf" target="_blank">Dave's resume</a>
 &nbsp;
 
 ## LinkedIn
@@ -13,6 +13,6 @@
 
 ## Writing
 &nbsp;
-<a href="https://davecthomas.medium.com" target="_blank">davecthomas.medium.com</a> and <a href="https://www.linkedin.com/in/dcthomas/detail/recent-activity/posts/" target="_blank">LinkedIn articles</a>
+<a href="https://davethomas.substack.com/" target="_blank">Building Forward - Substack</a> and <a href="https://www.linkedin.com/in/dcthomas/detail/recent-activity/posts/" target="_blank">LinkedIn articles</a>
 
 
